@@ -1,2 +1,2 @@
 # BETraining
-Just training ass BE
+Just training as a BE
